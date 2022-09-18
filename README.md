@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Solving problem using python , being a software developer. Making things easier for frontend developer , being a backend developer. Simplicity | Dedication | Sleep</h3>
+<h3 align="center"> A Python programmer | A backend developer | Simplicity | Dedication | Sleep | Gamer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="manishdashsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishdashsharma" alt="manishdashsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Workflow.ai , a software that can digitalize the signing process for any organization.**
 
