@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1> 
-[![Spotify](https://novatorem.vercel.app)](https://open.spotify.com/user/i59tusgu6fgy0q95unu38p1ok)
+
 <h3 align="center"> A Python programmer | A backend developer | Simplicity | Dedication | Sleep | Gamer </h3>
 
 - 🔭 I’m currently working on **Workflow.ai , a software that can digitalize the signing process for any organization.**
