@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/manishdashsharma/manishdashsharma/blob/main/Manish%20Dash%20Sharma.pdf)
 
-- ⚡ Fun fact **all time sport-head studied engineering to make parents smile :wink: **
+- ⚡ Fun fact **all time sport-head studied engineering to make parents smile** :wink:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
