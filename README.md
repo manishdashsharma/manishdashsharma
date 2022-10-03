@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manish</h1> 
 
-<h3 align="center"> A Python programmer | A backend developer | Simplicity | Dedication | Sleep | Gamer </h3>
+<h3 align="center"> Developer | Simplicity | Dedication | Sleep | Gamer </h3>
 
 - 🔭 I’m currently working on **Workflow.ai , a software that can digitalize the signing process for any organization.**
 
-- 🌱 I’m currently learning **frontend to the shine brighter in world of frontend using JavaScript **
+- 🌱 I’m currently learning **frontend to the shine brighter in world of frontend using JavaScript**
 
-- 💬 Ask me anything regarding **Python , Django/Django-Rest framework , Flask , team managing **
+- 💬 Ask me anything regarding **Python , Django/Django-Rest framework , Flask , Managing teams**
 
 - 📫 How to reach me **mdashsharma95@gmail.com**
 
