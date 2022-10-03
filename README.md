@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdashsharma95@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/manishdashsharma/manishdashsharma/blob/main/Manish%20Dash%20Sharma.pdf](https://github.com/manishdashsharma/manishdashsharma/blob/main/Manish%20Dash%20Sharma.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/manishdashsharma/manishdashsharma/blob/main/Manish%20Dash%20Sharma.pdf)
 
 - ⚡ Fun fact **A all time sport-head studied engineering to make parents smile 😉**
 
