@@ -6,7 +6,7 @@
 <a href="https://twitter.com/@manishdsharma08" target="blank"><img src="https://img.shields.io/twitter/follow/manishdsharma08?style=social" alt="@manishdsharma08" /></a>
 <a href="https://github.com/manishdashsharma" target="blank"><img src="https://img.shields.io/github/followers/manishdashsharma?style=social" alt="@manishdsharma08" /></a>
 </p>
-https://github.com/manishdashsharma
+
 - 🔭 I’m currently working on **Workflow.ai , a software that can digitalize the signing process for any organization.**
 
 - 🌱 I’m currently learning **frontend to the shine brighter in world of frontend using JavaScript**
