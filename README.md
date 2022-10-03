@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Developer | Simplicity | Dedication | Sleep | Gamer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="manishdashsharma" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@manishdsharma08" target="blank"><img src="https://img.shields.io/twitter/follow/@manishdsharma08?logo=twitter&style=for-the-badge" alt="@manishdsharma08" /></a> </p>
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=manishdashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="manishdashsharma" /> 
+<a href="https://twitter.com/@manishdsharma08" target="blank"><img src="https://img.shields.io/twitter/follow/manishdsharma08?style=social" alt="@manishdsharma08" /></a>
+<a href="https://github.com/manishdashsharma" target="blank"><img src="https://img.shields.io/github/followers/manishdashsharma?style=social" alt="@manishdsharma08" /></a>
+</p>
+https://github.com/manishdashsharma
 - 🔭 I’m currently working on **Workflow.ai , a software that can digitalize the signing process for any organization.**
 
 - 🌱 I’m currently learning **frontend to the shine brighter in world of frontend using JavaScript**
