@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **A all time sport-head studied engineering to make parents smile 😉**
 
+- 📄 My blogs [Blog](https://manishashsharma.hashnode.dev/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@manishdsharma08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manishdsharma08" height="30" width="40" /></a>
