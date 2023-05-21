@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on many interesting backend projects.<br>👯 I’m looking to collaborate on backend project with DRF.<br>🌱 I’m currently learning MERN stack .<br>💬 Ask me about Python , Django-DRF <br>⚡ Fun fact all time sport-head studied engineering to make parents smile 😉<br>
+🔭 I'm currently working on many interesting backend projects.<br>👯 I’m looking to collaborate on backend project with DRF.<br>🌱 I’m currently learning MERN stack .<br>💬 Ask me about Python , Django-DRF <br>
 
 
 ## 🌐 Socials:
