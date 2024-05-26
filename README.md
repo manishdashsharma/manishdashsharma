@@ -4,6 +4,8 @@ Hey there, I'm Manish 👋
 - Ask me about Python, Django-DRF
 
 
+![Snake animation](https://raw.githubusercontent.com/manishdashsharma/manishdashsharma/output/github-contribution-grid-snake-dark.svg)
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-dash-sharma-0082b8185/).
 
 
