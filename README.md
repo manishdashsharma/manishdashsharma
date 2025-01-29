@@ -17,5 +17,5 @@ Hey there, I'm Manish 👋
 [![](https://visitcount.itsvg.in/api?id=manishdashsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manishdashsharma&theme=dracula)](https://github.com/manishdashsharma/github-readme-activity-graph)
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manishdashsharma&theme=xcode)](https://github.com/manishdashsharma/github-readme-activity-graph)
 
