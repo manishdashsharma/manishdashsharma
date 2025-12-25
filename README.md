@@ -1,4 +1,4 @@
-# Hi there, I'm Manish Dash Sharma 👋
+# Hi there, I'm Manish 👋
 
 <div align="center">
   
@@ -18,38 +18,9 @@
 
 ---
 
-## 💡 Core Competencies
-
-```typescript
-const expertise = {
-  aiIntegration: ['GenAI Applications', 'LLM Fine-tuning', 'RAG Systems', 'AI Agents'],
-  architecture: ['Microservices', 'Event-Driven Systems', 'Distributed Computing'],
-  backend: ['RESTful APIs', 'GraphQL', 'WebSocket Servers', 'Real-time Systems'],
-  frontend: ['SPA Development', 'SSR/SSG', 'Responsive Design', 'State Management'],
-  databases: ['Schema Design', 'Query Optimization', 'Data Modeling', 'Caching Strategies'],
-  devops: ['Container Orchestration', 'CI/CD Pipelines', 'Cloud Architecture', 'Infrastructure as Code'],
-  messaging: ['Event Streaming', 'Message Queues', 'Pub/Sub Patterns']
-}
-```
-
----
-
 ## 📈 Contribution Activity
 
 [![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manishdashsharma&theme=tokyo-night&hide_border=true&area=true)](https://github.com/manishdashsharma)
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-dash-sharma-0082b8185/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.manishdashsharma.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdashsharma95@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishdashsharma)
-
-</div>
 
 ---
 
